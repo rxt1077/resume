@@ -64,6 +64,7 @@ Linux servers to meet the technology needs of a growing company.
 ## New Jersey Institute of Technology (Newark, NJ)
 
 **Currently enrolled in the Master of Science in Computer Science Program**
+
 **Bachelor of Science in Computer Science** (2004)
 
 # Skills
