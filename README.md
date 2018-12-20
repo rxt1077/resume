@@ -34,7 +34,7 @@ providing technology expertise to aid in district decision-making.
 A large portion of my work includes helping administration inform their decisions
 with data. I utilize data visualization tools (Jupyter/iPython notebooks) as well as
 frameworks for data processing (MapReduce / Pandas) to provide insights that drive
-district decision making. I also traing teachers and admin on how to perform their
+district decision making. I also train teachers and admin on how to perform their
 own analysis from the distric level down to individual student goal setting.
 
 As my duties are so varied, I strive to automate and document as much as possible.
@@ -59,7 +59,7 @@ At the High School level I have taught several levels of Physics, Chemistry,
 Introduction to Forensic Science, Biotechnology Concepts, and Advanced
 Conceptual Science. I have also developed several curricula in these fields.
 
-While teaching I continued to design and utilize educational games in my classroom.
+While teaching I continued to develop and utilize educational games in my classroom.
 These included a set of tools called Iteractive Kinematic Equations which taught
 how to solve equations using Javascript and HTML5.
 
