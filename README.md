@@ -17,7 +17,8 @@ use in the classroom.
 
 I have taught IT310 E-Commerce Technology, IT420 Computer Systems and Networks,
 and IT610 Systems Administration. My classes are typically project-based and
-center around open source software.
+center around open source software. I will also be teaching IT635 in Spring of
+2018.
   
 ## Monroe Township Schools (Monroe, NJ)
 
@@ -29,6 +30,22 @@ of technology in the classroom and work with the IT staff to resolve issues that
 occur. My role includes the administration of several databases, debugging and
 troubleshooting of services we use, development of in-house resources, and
 providing technology expertise to aid in district decision-making.
+
+A large portion of my work includes helping administration inform their decisions
+with data. I utilize data visualization tools (Jupyter/iPython notebooks) as well as
+frameworks for data processing (MapReduce / Pandas) to provide insights that drive
+district decision making. I also traing teachers and admin on how to perform their
+own analysis from the distric level down to individual student goal setting.
+
+As my duties are so varied, I strive to automate and document as much as possible.
+I have created projects to assist in my data upkeep responsibilities which primarily
+involve web-scraping / creating in-house APIs for web applications with asyncrhonous
+python (aiohttp) or utilizing a controlled browser session (selenium, phantomjs,
+casperjs) when Javascript needs to be run client-side. I have developed an entire
+framework to pull information from the student information system through its
+reporting facilities and create a secondary database with an SQLAlachemy ORM. This
+allows me to develop programmatically complex queueries that are otherwise unsupported
+by the system.
 
 **Interim Science Department Coordinator** (2015)
 
@@ -42,13 +59,18 @@ At the High School level I have taught several levels of Physics, Chemistry,
 Introduction to Forensic Science, Biotechnology Concepts, and Advanced
 Conceptual Science. I have also developed several curricula in these fields.
 
+While teaching I continued to design and utilize educational games in my classroom.
+These included a set of tools called Iteractive Kinematic Equations which taught
+how to solve equations using Javascript and HTML5.
+
 ## Applied Materials (Santa Clara, CA)
 
 **Research Assistant** (2004-2005)
 
 I developed a system for measuring temperature effects on experimental
 semiconductors. I created a software library to interface with a thermoelectric
-cooler and a front-end program to allow an operator to perform tests.
+cooler and a front-end program to allow an operator to perform tests. The library
+I designed was written in C and linked as a DLL to a front-end written in LabView.
 
 ## Integrated Photonic Systems / Petalogic (Trenton, NJ / Petaluma, CA)
 
@@ -63,8 +85,13 @@ Linux servers to meet the technology needs of a growing company.
 
 ## New Jersey Institute of Technology (Newark, NJ)
 
-* Currently enrolled in the Master of Science in Computer Science Program
+* Entrolled in Master of Science in Computer Science Program (Graduating Summer
+2019)
 * Bachelor of Science in Computer Science (2004)
+
+## The College of New Jersey (Trenton, NJ)
+
+* 12 Credits in the Masters of Arts in Teaching Program (2005-2006)
 
 # Skills
 
@@ -74,3 +101,14 @@ Linux servers to meet the technology needs of a growing company.
 * Linux systems administration / development
 * DevOps methodologies and tools: automated configuration management, cloud
 architecture design, containerization, container orchestration.
+* Data Science tools: Pandas, MapReduce, Jupyter/iPython notebooks
+
+# Open Source Contributions
+
+* Early Gentoo Linux Developer and package maintainer
+* Arch Linux package contributer
+* cjdns documentation updates
+* Early cryptocurrency adopter / advocate mainly in the BitCoin and Ethereum space
+* [Omniauth updates for utilizing the Microsoft Graph API](https://github.com/FalconPD/omniauth-microsoft_graph)
+* [Erlang analysis of peer discovery in the Kademlia DHT](https://github.com/bosco/p2p)
+* [alwaysRostering: A Framework for Keeping Separate Databases in Sync with a Student Information System](https://github.com/FalconPD/alwaysRostering)
