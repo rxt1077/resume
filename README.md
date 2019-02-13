@@ -16,9 +16,11 @@ use in the classroom.
 **Adjunct Professor** (2017-Current)
 
 I have taught IT310 E-Commerce Technology, IT420 Computer Systems and Networks,
-and IT610 Systems Administration. My classes are typically project-based and
-center around open source software. I will also be teaching IT635 in Spring of
-2018.
+IT610 Systems Administration, and IT635 Database Administration. My classes are
+typically project-based and center around using open source software to solve
+real-world problems. All of my classes are infused with practical Linux system
+administation and many of them involve the use of a web framework (Ruby on Rails,
+Django, bottle) to create a web application that meets the needs of users.
   
 ## Monroe Township Schools (Monroe, NJ)
 
@@ -102,6 +104,7 @@ Linux servers to meet the technology needs of a growing company.
 * DevOps methodologies and tools: automated configuration management, cloud
 architecture design, containerization, container orchestration.
 * Data Science tools: Pandas, MapReduce, Jupyter/iPython notebooks
+* Embedded Systems Development: Arduino, msp430
 
 # Open Source Contributions
 
@@ -112,3 +115,5 @@ architecture design, containerization, container orchestration.
 * [Omniauth updates for utilizing the Microsoft Graph API](https://github.com/FalconPD/omniauth-microsoft_graph)
 * [Erlang analysis of peer discovery in the Kademlia DHT](https://github.com/bosco/p2p)
 * [alwaysRostering: A Framework for Keeping Separate Databases in Sync with a Student Information System](https://github.com/FalconPD/alwaysRostering)
+* [Goodwatch Solder Paste Stencils and Assembly Tips](https://github.com/travisgoodspeed/goodwatch/)
+* [K3NG Keyer Development of Morse Practice Mode](https://github.com/k3ng/k3ng_cw_keyer)
