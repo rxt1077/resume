@@ -87,8 +87,7 @@ Linux servers to meet the technology needs of a growing company.
 
 ## New Jersey Institute of Technology (Newark, NJ)
 
-* Entrolled in Master of Science in Computer Science Program (Graduating Summer
-2019)
+* Entrolled in Master of Science in Computer Science Program (Graduating Summer 2019)
 * Bachelor of Science in Computer Science (2004)
 
 ## The College of New Jersey (Trenton, NJ)
