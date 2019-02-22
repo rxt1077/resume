@@ -4,23 +4,24 @@ Ryan.Tolboom@njit.edu
 
 # Summary
 
-Developer, open-source contributor, teacher, trainer, professor, and technology
-facilitator that has worked in almost all aspects technology from research and
-development in semiconductor manufacturing to training teachers on technology
-use in the classroom.
+Developer, IT professional, open-source contributor, high school teacher, 
+university instructor, and technology facilitator with experience in many aspects
+of technology from research and development in semiconductor manufacturing, 
+managing IT infrastructure, and training teachers on effective technology use in
+the classroom.
 
 # Work Experience
 
 ## New Jersey Institute of Technology (Newark, NJ)
 
-**Adjunct Professor** (2017-Current)
+**Adjunct Professor, Informatics Department** (2017-Current)
 
 I have taught IT310 E-Commerce Technology, IT420 Computer Systems and Networks,
 IT610 Systems Administration, and IT635 Database Administration. My classes are
 typically project-based and center around using open source software to solve
 real-world problems. All of my classes are infused with practical Linux system
-administation and many of them involve the use of a web framework (Ruby on Rails,
-Django, bottle) to create a web application that meets the needs of users.
+administation and often involve the use of a web framework (Ruby on Rails,
+Django, bottle) to create a web application that meet the needs of users.
   
 ## Monroe Township Schools (Monroe, NJ)
 
@@ -28,9 +29,9 @@ Django, bottle) to create a web application that meets the needs of users.
 
 In my current role I work in eight different schools throughout the district
 with teachers and students from Pre-K to 12th grade. I aid teachers in the usage
-of technology in the classroom and work with the IT staff to resolve issues that
+of technology in the classroom and work to resolve IT related issues as they
 occur. My role includes the administration of several databases, debugging and
-troubleshooting of services we use, development of in-house resources, and
+troubleshooting of IT services, development of in-house resources, and
 providing technology expertise to aid in district decision-making.
 
 A large portion of my work includes helping administration inform their decisions
@@ -55,44 +56,45 @@ As High School Science Department Coordinator my role consisted of being an
 interface between administration, parents, and teachers as well as budgeting and
 assisting in day-to-day operations of the department.
 
-**Teacher of Physics** (2006-2015)
+**STEM High School Teacher** (2006-2015)
 
-At the High School level I have taught several levels of Physics, Chemistry,
-Introduction to Forensic Science, Biotechnology Concepts, and Advanced
-Conceptual Science. I have also developed several curricula in these fields.
+At the High School level I have taught Physics, Chemistry, Introduction to Forensic
+Science, Biotechnology Concepts, and Advanced Conceptual Science. I have also
+developed several curricula in these areas.
 
-While teaching I continued to develop and utilize educational games in my classroom.
-These included a set of tools called Iteractive Kinematic Equations which taught
-how to solve equations using Javascript and HTML5.
+While teaching I have continually developed and utilize educational games in the
+classroom. These included a set of tools called Iteractive Kinematic Equations which
+were developed to teach students how to solve equations using Javascript and HTML5.
 
 ## Applied Materials (Santa Clara, CA)
 
 **Research Assistant** (2004-2005)
 
-I developed a system for measuring temperature effects on experimental
-semiconductors. I created a software library to interface with a thermoelectric
-cooler and a front-end program to allow an operator to perform tests. The library
-I designed was written in C and linked as a DLL to a front-end written in LabView.
+As a research assistant at Applied Materials, I developed a system for measuring
+temperature effects on experimental semiconductors. I created a software library to
+interface with a thermoelectric cooler and a front-end program to allow an operator
+to perform tests. The library I designed was written in C and linked as a Dynamic Link
+Libray to a front-end written in LabView.
 
 ## Integrated Photonic Systems / Petalogic (Trenton, NJ / Petaluma, CA)
 
 **Research Assistant** (2003-2004)
 
-As a research assistant, my responsibilities included developing and testing
-software that used the AutoOptics motion control system to automate common lab
-procedures. I performed the duties of a systems administrator, using custom
-Linux servers to meet the technology needs of a growing company.
+As a research assistant at Integrated Photonic Systems, my responsibilities included
+developing and testing software that used the AutoOptics motion control system to
+automate common lab procedures. I performed the duties of a systems administrator, using
+custom Linux servers to meet the technology needs of a growing company.
 
 # Education
 
 ## New Jersey Institute of Technology (Newark, NJ)
 
-* Entrolled in Master of Science in Computer Science Program (Graduating Summer 2019)
+* Master of Science in Computer Science (Summer 2019)
 * Bachelor of Science in Computer Science (2004)
 
 ## The College of New Jersey (Trenton, NJ)
 
-* 12 Credits in the Masters of Arts in Teaching Program (2005-2006)
+* Credits towards the Masters of Arts in Teaching Program (2005-2006)
 
 # Skills
 
