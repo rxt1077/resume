@@ -1,6 +1,6 @@
 # Ryan Tolboom
 
-Ryan.Tolboom@njit.edu
+ryan@using.tech
 
 # Summary
 
