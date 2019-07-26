@@ -14,7 +14,11 @@ the classroom.
 
 ## New Jersey Institute of Technology (Newark, NJ)
 
-**Adjunct Professor, Informatics Department** (2017-Current)
+**University Lecturer, Informatices Department** (2019-Current)
+
+In Fall 2019 I begin working full-time for NJIT as a University Lecturer.
+
+**Adjunct Professor, Informatics Department** (2017-2019)
 
 I have taught IT310 E-Commerce Technology, IT420 Computer Systems and Networks,
 IT610 Systems Administration, and IT635 Database Administration. My classes are
@@ -25,30 +29,29 @@ Django, bottle) to create a web application that meet the needs of users.
   
 ## Monroe Township Schools (Monroe, NJ)
 
-**Educational Technology Facilitator** (2015-Current)
+**Educational Technology Facilitator** (2015-2019)
 
-In my current role I work in eight different schools throughout the district
-with teachers and students from Pre-K to 12th grade. I aid teachers in the usage
-of technology in the classroom and work to resolve IT related issues as they
-occur. My role includes the administration of several databases, debugging and
-troubleshooting of IT services, development of in-house resources, and
-providing technology expertise to aid in district decision-making.
+In my role as an Ed Tech facilitator I worked in eight different schools throughout
+the district with teachers and students from Pre-K to 12th grade. I aided teachers
+in the usage of technology in the classroom and worked to resolve IT related issues
+as they occur. This role included the administration of several databases, debugging
+andtroubleshooting of IT services, development of in-house resources, and the 
+provision of technology expertise to aid in district decision-making.
 
-A large portion of my work includes helping administration inform their decisions
-with data. I utilize data visualization tools (Jupyter/iPython notebooks) as well as
-frameworks for data processing (MapReduce / Pandas) to provide insights that drive
-district decision making. I also train teachers and admin on how to perform their
+A large portion of my work included helping administration inform their decisions
+with data. I utilized data visualization tools (Jupyter/iPython notebooks) as well as
+frameworks for data processing (MapReduce / Pandas) to provide insights that drove
+district decision making. I also trained teachers and admin on how to perform their
 own analysis from the distric level down to individual student goal setting.
 
-As my duties are so varied, I strive to automate and document as much as possible.
-I have created projects to assist in my data upkeep responsibilities which primarily
-involve web-scraping / creating in-house APIs for web applications with asyncrhonous
+As my duties were so varied, I strove to automate and document as much as possible.
+I created projects to assist in data upkeep responsibilities which primarily
+involved web-scraping / creating in-house APIs for web applications with asyncrhonous
 python (aiohttp) or utilizing a controlled browser session (selenium, phantomjs,
-casperjs) when Javascript needs to be run client-side. I have developed an entire
-framework to pull information from the student information system through its
-reporting facilities and create a secondary database with an SQLAlachemy ORM. This
-allows me to develop programmatically complex queueries that are otherwise unsupported
-by the system.
+casperjs) when Javascript needs to be run client-side. I developed an entire framework
+to pull information from the student information system through its reporting facilities
+and create a secondary database with an SQLAlachemy ORM. This allowed me to develop
+programmatically complex queueries that were otherwise unsupported by the system.
 
 **Interim Science Department Coordinator** (2015)
 
@@ -98,7 +101,7 @@ custom Linux servers to meet the technology needs of a growing company.
 
 # Skills
 
-* Programming Languages: C/C++, JavaScript, Python, Java, Erlang
+* Programming Languages: C/C++, JavaScript, Python, Java, Erlang, Lisp
 * Development Frameworks: [Django](https://www.djangoproject.com),
 [Android Studio](https://developer.android.com/studio)
 * Linux systems administration / development
