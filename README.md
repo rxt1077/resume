@@ -14,6 +14,24 @@ the classroom.
 
 ## New Jersey Institute of Technology (Newark, NJ)
 
+**Facilities Directory, NJIT MIXR Lab** (2021-Current)
+
+The NJIT Machine Intelligence and XR Research (MIXR) lab is a space for
+experimentation in virtual and augmented reality. As Facilities Director I
+ensure that the computer resources needed by the lab are available and
+accessible. This includes the administration and maintenance of machines used
+by students in a classroom setting, graduate researchers in a research lab, and
+undergraduate assistants throughout.
+
+**Program Coordinator, Master of Science in Information Technology Administration and Security** (2020-Current)
+
+As program coordinator, my responsibilities include aligning the MSITAS
+curriculum with current industry best practices, ensuring prerequisite
+alignment, analyzing student enrollment, and creating and updating working
+standards for the program. I work closely with the Office of Institutional
+Effectiveness to ensure that we are meeting our assessment and accreditation
+responsibilities.
+
 **University Lecturer, Informatices Department** (2019-Current)
 
 As a University Lecturer I have taught IT120 Introduction to Networking, IT420
