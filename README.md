@@ -14,6 +14,11 @@ the classroom.
 
 ## New Jersey Institute of Technology (Newark, NJ)
 
+**Interim Associate Department Chair, Informatics Department** (2023-Current)
+
+In this role I help disseminate information, schedule courses, complete accreditation requirements, evaluate transfer credits, and interface with advisory committees.
+I am a point person for questions regarding both undergraduates and graduates within the department.
+
 **Facilities Directory, NJIT MIXR Lab** (2021-Current)
 
 The NJIT Machine Intelligence and XR Research (MIXR) lab is a space for
@@ -32,7 +37,7 @@ standards for the program. I work closely with the Office of Institutional
 Effectiveness to ensure that we are meeting our assessment and accreditation
 responsibilities.
 
-**University Lecturer, Informatices Department** (2019-Current)
+**University Lecturer, Informatics Department** (2019-Current)
 
 As a University Lecturer I have taught IT120 Introduction to Networking, IT420
 Computer Systems and Networks, IT490 Systems Integration, IS601 Web Systems,
@@ -123,6 +128,23 @@ custom Linux servers to meet the technology needs of a growing company.
 
 * Credits towards the Masters of Arts in Teaching Program (2005-2006)
 
+# Service Work
+
+## Department
+
+* MSITAS Action Plan Committee Member
+
+## College
+
+* Ying Wu College of Computing High School Outreach Presenter
+
+## University
+
+* K2MFF Faculty Advisor (Amateur Radio Club)
+* Lecturer's and Educators Congress Representative
+* Provost Search Committee Voting Member (2023)
+* Information Systems and Digital Transformation Committee Member 
+
 # Skills
 
 * Programming Languages: C/C++, JavaScript, Python, Java, Erlang, Lisp, Clojure,
@@ -138,18 +160,21 @@ architecture design, containerization, container orchestration.
 # Publications
 
 * [Systems Integration: A Project Based Approach](https://www.oercommons.org/courses/systems-integration-a-project-based-approach)
+* [Computer Systems Security: Planning for Success](https://www.oercommons.org/courses/computer-systems-security) ([https://oeweek.oeglobal.org/resources/2023/computer-systems-security-planning-for-success/](Featured for OEWeek 2023))
 
 # Grants
 
+* Spring 2022 Open Textbook Collaborative (OTC) grant funded by the US Department of Education for the Improvement of Postsecondary Education (FIPSE) to facilitate the creation of a digital toolkit for teaching Computer Systems Security.
+* Fall 2022 NJIT Open Access to Textbooks (OAT) grant to facilitate the adoption of open source resources in IT230: Computer Systems Security 
 * Fall 2020 NSF I-Corps Site at NJIT: Discord Digital Assistant for
   Traditionally Underrepresented Groups in Technology
 
 # Open Source Contributions
 
-* Early Gentoo Linux Developer and package maintainer
+* Gentoo Linux package contributor
 * Arch Linux package contributor
+* GUIX package contributor
 * cjdns documentation updates
-* Early cryptocurrency adopter / advocate mainly in the BitCoin and Ethereum space
 * [Omniauth updates for utilizing the Microsoft Graph API](https://github.com/FalconPD/omniauth-microsoft_graph)
 * [Erlang analysis of peer discovery in the Kademlia DHT](https://github.com/bosco/p2p)
 * [alwaysRostering: A Framework for Keeping Separate Databases in Sync with a Student Information System](https://github.com/FalconPD/alwaysRostering)
@@ -159,3 +184,9 @@ architecture design, containerization, container orchestration.
 * [jr: A distributed, peer-to-peer social communication platform modeled after Secure Scuttle Butt](https://github.com/rxt1077/jr)
 * [ssh-container: Container-based Network Learning Environment](https://github.com/rxt1077/ssh-container)
 * [Terraform/Ansible AWS Hadoop Cluster](https://github.com/rxt1077/terraform_ansible_aws_hadoop)
+* [qdmr Updated udev rule](https://github.com/hmatuschek/qdmr/pull/254)
+* [Multiple CSS support for libasciidoc](https://github.com/bytesparadise/libasciidoc/pull/976)
+* [Add WithElements to Section for libasciidoc](https://github.com/bytesparadise/libasciidoc/pull/959)
+* [Add SSL notification at boot for meshtastic](https://github.com/meshtastic/firmware/pull/935)
+* [ACK retried want_ack packets for meshtastic](https://github.com/meshtastic/firmware/pull/924)
+* [Fixed order of have_tunnel check for meshtastic python](https://github.com/meshtastic/python/pull/113)
