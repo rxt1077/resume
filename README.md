@@ -190,3 +190,4 @@ architecture design, containerization, container orchestration.
 * [Add SSL notification at boot for meshtastic](https://github.com/meshtastic/firmware/pull/935)
 * [ACK retried want_ack packets for meshtastic](https://github.com/meshtastic/firmware/pull/924)
 * [Fixed order of have_tunnel check for meshtastic python](https://github.com/meshtastic/python/pull/113)
+* [WSJT-X WSPR decoder coarse estimates fix](https://sourceforge.net/p/wsjt/mailman/wsjt-devel/thread/77A41B45-8324-460A-A11A-F223B0F49451%40icloud.com/#msg37836437)
