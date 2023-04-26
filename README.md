@@ -160,7 +160,7 @@ architecture design, containerization, container orchestration.
 # Publications
 
 * [Systems Integration: A Project Based Approach](https://www.oercommons.org/courses/systems-integration-a-project-based-approach)
-* [Computer Systems Security: Planning for Success](https://www.oercommons.org/courses/computer-systems-security) ([https://oeweek.oeglobal.org/resources/2023/computer-systems-security-planning-for-success/](Featured for OEWeek 2023))
+* [Computer Systems Security: Planning for Success](https://www.oercommons.org/courses/computer-systems-security) ([Featured for OEWeek 2023](https://oeweek.oeglobal.org/resources/2023/computer-systems-security-planning-for-success/))
 
 # Grants
 
