@@ -14,19 +14,10 @@ the classroom.
 
 ## New Jersey Institute of Technology (Newark, NJ)
 
-**Interim Associate Department Chair, Informatics Department** (2023-Current)
+**Associate Department Chair, Informatics Department** (2023-Current)
 
 In this role I help disseminate information, schedule courses, complete accreditation requirements, evaluate transfer credits, and interface with advisory committees.
 I am a point person for questions regarding both undergraduates and graduates within the department.
-
-**Facilities Directory, NJIT MIXR Lab** (2021-Current)
-
-The NJIT Machine Intelligence and XR Research (MIXR) lab is a space for
-experimentation in virtual and augmented reality. As Facilities Director I
-ensure that the computer resources needed by the lab are available and
-accessible. This includes the administration and maintenance of machines used
-by students in a classroom setting, graduate researchers in a research lab, and
-undergraduate assistants throughout.
 
 **Program Coordinator, Master of Science in Information Technology Administration and Security** (2020-Current)
 
@@ -137,6 +128,7 @@ custom Linux servers to meet the technology needs of a growing company.
 ## College
 
 * Ying Wu College of Computing High School Outreach Presenter
+* Dean Search Committee Voting Member (2024)
 
 ## University
 
@@ -161,6 +153,10 @@ architecture design, containerization, container orchestration.
 
 * [Systems Integration: A Project Based Approach](https://www.oercommons.org/courses/systems-integration-a-project-based-approach)
 * [Computer Systems Security: Planning for Success](https://www.oercommons.org/courses/computer-systems-security) ([Featured for OEWeek 2023](https://oeweek.oeglobal.org/resources/2023/computer-systems-security-planning-for-success/))
+
+# Presentations
+
+* [Open Source Tools for Open Education Resources](https://sched.co/1S7i7)
 
 # Grants
 
@@ -191,3 +187,5 @@ architecture design, containerization, container orchestration.
 * [ACK retried want_ack packets for meshtastic](https://github.com/meshtastic/firmware/pull/924)
 * [Fixed order of have_tunnel check for meshtastic python](https://github.com/meshtastic/python/pull/113)
 * [WSJT-X WSPR decoder coarse estimates fix](https://sourceforge.net/p/wsjt/mailman/wsjt-devel/thread/77A41B45-8324-460A-A11A-F223B0F49451%40icloud.com/#msg37836437)
+* [WSJT-X FST4 Doppler Spread Overshoot Calculation](https://sourceforge.net/p/wsjt/mailman/message/53976624/)
+* [dimd: 8 Channel AC Light Dimmer Daemon](https://git.sr.ht/~bosco/dimd)
