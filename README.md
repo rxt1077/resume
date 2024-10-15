@@ -4,11 +4,8 @@ ryan@using.tech
 
 # Summary
 
-Developer, IT professional, open-source contributor, high school teacher, 
-university instructor, and technology facilitator with experience in many aspects
-of technology including research and development in semiconductor manufacturing,
-managing IT infrastructure, and training teachers on effective technology use in
-the classroom.
+Developer, IT professional, open-source contributor, high school teacher, university instructor, and technology facilitator with experience in many aspects of technology including research and development in semiconductor manufacturing, managing IT infrastructure, radio networking, and training teachers on effective technology use in the classroom.
+I am passionate about open source software and open educational resources and have developed a cybersecurity textbook that is currently used at multiple institutions.
 
 # Work Experience
 
@@ -21,42 +18,37 @@ I am a point person for questions regarding both undergraduates and graduates wi
 
 **Program Coordinator, Master of Science in Information Technology Administration and Security** (2020-Current)
 
-As program coordinator, my responsibilities include aligning the MSITAS
-curriculum with current industry best practices, ensuring prerequisite
-alignment, analyzing student enrollment, and creating and updating working
-standards for the program. I work closely with the Office of Institutional
-Effectiveness to ensure that we are meeting our assessment and accreditation
-responsibilities.
+As program coordinator, my responsibilities include aligning the MSITAS curriculum with current industry best practices, ensuring prerequisite alignment, analyzing student enrollment, and creating and updating working standards for the program.
+I work closely with the Office of Institutional Effectiveness to ensure that we are meeting our assessment and accreditation responsibilities.
+
+**Ying Wu College of Computing High School Outreach Team** (20220-Current)
+
+As a member of the YWCC High School Outreach team, I travel to schools throughout New Jersey and deliver presentations on careers in computing.
+My particular focus is on making young students aware of career opportunities in applied computing and Cybersecurity.
 
 **University Lecturer, Informatics Department** (2019-Current)
 
-As a University Lecturer I have taught IT120 Introduction to Networking, IT420
-Computer Systems and Networks, IT490 Systems Integration, IS601 Web Systems,
-IT610 Systems Administration, and IT635 Database Administration. I have
-developed lab materials for IT120 and IT420 as well as a textbook for IT490. I
-serve in the Lecturers and Educators Congress as the representative for the Ying
-Wu College of Computing Sciences and maintain/administer the MIXR lab
-computers.
+As a University Lecturer I have taught IT120 Introduction to Networking, IT320 Computer Systems Security, IT420 Computer Systems and Networks, IT490 Systems Integration, IS601 Python for Web APIs, IT610 Systems Administration, and IT635 Database Administration.
+I have developed lab materials for Introduction to Networking, Computer Systems Security, and Computer Systems and Networks as well as a textbook for Computer Systems Security and Systems Integration.
+
+**Lecturers and Educators Congress Representative** (2019-Current)
+
+I serve in the Lecturers and Educators Congress as a representative for the Ying Wu College of Computing Sciences.
+In this capacity I represent the interest of lecturers in my college in working with the systems of shared governance at NJIT. 
 
 **Adjunct Professor, Informatics Department** (2017-2019)
 
-I have taught IT310 E-Commerce Technology, IT420 Computer Systems and Networks,
-IT610 Systems Administration, and IT635 Database Administration. My classes are
-typically project-based and center around using open source software to solve
-real-world problems. All of my classes are infused with practical Linux system
-administration and often involve the use of a web framework (Ruby on Rails,
-Django, bottle) to create a web application that meet the needs of users.
+As an adjunct, I have taught IT310 E-Commerce Technology, IT420 Computer Systems and Networks, IT610 Systems Administration, and IT635 Database Administration.
+My classes are typically project-based and center around using open source software to solve real-world problems.
+All of my classes are infused with practical Linux system administration and often involve the use of a web framework (Ruby on Rails, Django, bottle) to create a web application that meet the needs of users.
   
 ## Monroe Township Schools (Monroe, NJ)
 
 **Educational Technology Facilitator** (2015-2019)
 
-In my role as an Ed Tech facilitator I worked in eight different schools throughout
-the district with teachers and students from Pre-K to 12th grade. I aided teachers
-in the usage of technology in the classroom and worked to resolve IT related issues
-as they occur. This role included the administration of several databases, debugging
-and troubleshooting of IT services, development of in-house resources, and the 
-provision of technology expertise to aid in district decision-making.
+In my role as an Ed Tech facilitator I worked in eight different schools throughout the district with teachers and students from Pre-K to 12th grade.
+I aided teachers in the usage of technology in the classroom and worked to resolve IT related issues as they occur.
+This role included the administration of several databases, debugging and troubleshooting of IT services, development of in-house resources, and the provision of technology expertise to aid in district decision-making.
 
 A large portion of my work included helping administration inform their decisions
 with data. I utilized data visualization tools (Jupyter/iPython notebooks) as well as
@@ -81,13 +73,11 @@ assisting in day-to-day operations of the department.
 
 **STEM High School Teacher** (2006-2015)
 
-At the High School level I have taught Physics, Chemistry, Introduction to Forensic
-Science, Biotechnology Concepts, and Advanced Conceptual Science. I have also
-developed several curricula in these areas.
+At the High School level I have taught Physics, Chemistry, Introduction to Forensic Science, Biotechnology Concepts, and Advanced Conceptual Science.
+I have also developed several curricula in these areas.
 
-While teaching I have continually developed and utilize educational games in the
-classroom. These included a set of tools called Interactive Kinematic Equations which
-were developed to teach students how to solve equations using Javascript and HTML5.
+While teaching I have continually developed and utilize educational games in the classroom.
+These included a set of tools called Interactive Kinematic Equations which were developed to teach students how to solve equations using Javascript and HTML5.
 
 ## Applied Materials (Santa Clara, CA)
 
@@ -139,15 +129,9 @@ custom Linux servers to meet the technology needs of a growing company.
 
 # Skills
 
-* Programming Languages: C/C++, JavaScript, Python, Java, Erlang, Lisp, Clojure,
-  Rust
-* Development Frameworks: [Django](https://www.djangoproject.com),
-[Android Studio](https://developer.android.com/studio)
+* Programming Languages (from most to least experience): C, Python, JavaScript, Java, Clojure, Rust
 * Linux systems administration / development
-* DevOps methodologies and tools: automated configuration management, cloud
-architecture design, containerization, container orchestration.
-* Data Science tools: Pandas, MapReduce, Jupyter/iPython notebooks
-* Embedded Systems Development: Arduino, msp430
+* Embedded Systems Development: Arduino, msp430, esp32
 
 # Publications
 
@@ -156,14 +140,49 @@ architecture design, containerization, container orchestration.
 
 # Presentations
 
-* [Open Source Tools for Open Education Resources](https://sched.co/1S7i7)
+* Open Textbook Collaborative Conference: Deep Dives/Faculty Authors Present, Middlesex College, Edison NJ. (September 27, 2024). 
+* OEGlobal 2023: [Open Source Tools for Open Education Resources](https://sched.co/1S7i7), Norquest College, Edmonton Alberta. (October 16, 2023).
+* Open Educational Resources Conference: Open Source Tools for Open Education Resources, Kean University, Union NJ. (April 14, 2023).
 
 # Grants
 
-* Spring 2022 Open Textbook Collaborative (OTC) grant funded by the US Department of Education for the Improvement of Postsecondary Education (FIPSE) to facilitate the creation of a digital toolkit for teaching Computer Systems Security.
+* Spring 2022 Open Textbook Collaborative (OTC) grant funded by Introduction to encryption and
+cryptography used in business
+environments (e.g., protecting financial
+transactions)
+Network security principles and
+technologies (e.g., firewalls, VPNs) in
+securing business networks
+Endpoint security solutions and their
+importance for protecting business
+devices
+
+Week
+7
+
+Security Technologies and
+Controls
+
+Business case studies on the use of
+encryption, VPNs, and firewalls to
+prevent data breaches
+Practical exercises using security tools in
+business scenarios
+
+Week 8 Access Control and Identity
+
+Management
+
+Authentication methods and protocols
+commonly used by businesses (e.g.,
+multi-factor authentication)
+Authorization and access control
+mechanisms for safeguarding business
+applications and data
+Identity and access management (IAM)
+systems in the corporate environmentthe US Department of Education for the Improvement of Postsecondary Education (FIPSE) to facilitate the creation of a digital toolkit for teaching Computer Systems Security.
 * Fall 2022 NJIT Open Access to Textbooks (OAT) grant to facilitate the adoption of open source resources in IT230: Computer Systems Security 
-* Fall 2020 NSF I-Corps Site at NJIT: Discord Digital Assistant for
-  Traditionally Underrepresented Groups in Technology
+* Fall 2020 NSF I-Corps Site at NJIT: Discord Digital Assistant for Traditionally Underrepresented Groups in Technology
 
 # Open Source Contributions
 
