@@ -146,41 +146,7 @@ custom Linux servers to meet the technology needs of a growing company.
 
 # Grants
 
-* Spring 2022 Open Textbook Collaborative (OTC) grant funded by Introduction to encryption and
-cryptography used in business
-environments (e.g., protecting financial
-transactions)
-Network security principles and
-technologies (e.g., firewalls, VPNs) in
-securing business networks
-Endpoint security solutions and their
-importance for protecting business
-devices
-
-Week
-7
-
-Security Technologies and
-Controls
-
-Business case studies on the use of
-encryption, VPNs, and firewalls to
-prevent data breaches
-Practical exercises using security tools in
-business scenarios
-
-Week 8 Access Control and Identity
-
-Management
-
-Authentication methods and protocols
-commonly used by businesses (e.g.,
-multi-factor authentication)
-Authorization and access control
-mechanisms for safeguarding business
-applications and data
-Identity and access management (IAM)
-systems in the corporate environmentthe US Department of Education for the Improvement of Postsecondary Education (FIPSE) to facilitate the creation of a digital toolkit for teaching Computer Systems Security.
+* Spring 2022 Open Textbook Collaborative (OTC) grant funded by the US Department of Education for the Improvement of Postsecondary Education (FIPSE) to facilitate the creation of a digital toolkit for teaching Computer Systems Security.
 * Fall 2022 NJIT Open Access to Textbooks (OAT) grant to facilitate the adoption of open source resources in IT230: Computer Systems Security 
 * Fall 2020 NSF I-Corps Site at NJIT: Discord Digital Assistant for Traditionally Underrepresented Groups in Technology
 
