@@ -21,7 +21,7 @@ I am a point person for questions regarding both undergraduates and graduates wi
 As program coordinator, my responsibilities include aligning the MSITAS curriculum with current industry best practices, ensuring prerequisite alignment, analyzing student enrollment, and creating and updating working standards for the program.
 I work closely with the Office of Institutional Effectiveness to ensure that we are meeting our assessment and accreditation responsibilities.
 
-**Ying Wu College of Computing High School Outreach Team** (20220-Current)
+**Ying Wu College of Computing High School Outreach Team** (2020-Current)
 
 As a member of the YWCC High School Outreach team, I travel to schools throughout New Jersey and deliver presentations on careers in computing.
 My particular focus is on making young students aware of career opportunities in applied computing and Cybersecurity.
